@@ -15,3 +15,7 @@ En la carpeta de mantenimiento encontraremos la porgramabilidad de los formulari
 En el apartado de gestion encontraremos la programabilidad del formulario de entrada y salida.
 
 Para cualquier duda enviar un correo a avilace31@insgabrielamistral.cat
+
+Para ver la estructura de la base de datos podeis entrar al siguiente enlace de drive que os llevarà a la memoria del proyecto:
+https://drive.google.com/file/d/1eoqcoN_iKivnwE5mAiOmmi2JbSkcgO73/view?usp=sharing
+
